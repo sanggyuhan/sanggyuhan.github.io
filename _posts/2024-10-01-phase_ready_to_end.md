@@ -10,6 +10,7 @@ pin: false
 media_subpath: '/posts/20241001'
 ---
 
+
 ## Problem
 When the verification environment is configured with Blackbox DUT, UVM scoreboard passively receives collected items from the external interface monitor of DUT and performs the checking functions. A typical DUT sends a response to the interface after completing its internal operation, but some DUTs send an early response and then finish their internal operation. For example, cache generates an early write response to AXI interface and then stores data in its internal SRAM cell over several cycles.
 
