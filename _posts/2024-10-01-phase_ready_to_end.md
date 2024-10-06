@@ -2,7 +2,7 @@
 title: phase_ready_to_end
 description: >-
   A function that can be used when it is necessary to wait for some simulation time at the end of an UVM test
-author: Sanggyu Han
+author:
 date: 2024-10-01 15:38:00 +0900
 categories: [UVM, Tips]
 tags: [UVM]
@@ -68,4 +68,5 @@ endclass : cache_scoreboard
 
 ## Sources
 Accellera. (2014). Universal Verification Methodology(UVM) 1.2 Class Reference.
+
 Tudor Timi, An Overview of UVM End-of-Test Mechanisms. Retrieved from https://blog.verificationgentleman.com/2016/03/25/an-overview-of-uvm-end-of-test-mechanisms.html
