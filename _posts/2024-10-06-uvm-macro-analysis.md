@@ -18,7 +18,7 @@ UVM provides several predefined macros for user convenience. This is a review of
 | Class of macros                           | Remarks            |
 | ----------------------------------------- | :----------------- | 
 | `uvm_*_utils                              | Highly recommended |
-| `uvm_info | warning | error | fatal       | Highly recommended |
+| `uvm_info / warning / error / fatal       | Highly recommended |
 | `uvm_*_imp_decl                           | OK to use          |
 | `uvm_field_*                              | Do not use         |
 | `uvm_do_*                                 | Avoid              |
