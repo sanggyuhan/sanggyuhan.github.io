@@ -51,10 +51,11 @@ class cache_scoreboard extends uvm_scoreboard;
             end
             begin : clean_exit
               wait (remaining_check_data.size() == 0);
-              phase.drop_objection(this);
             end
           join_any
           disable fork;
+
+          phase.drop_objection(this);
         end
       join_none
     end
