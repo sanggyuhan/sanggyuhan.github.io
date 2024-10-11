@@ -1,5 +1,5 @@
 ---
-title: local:: qualifier
+title: local\:\: qualifier
 description: >-
   Qualifier that limits the scope of the variables related to randomize() with
 author:
