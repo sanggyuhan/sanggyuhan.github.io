@@ -18,6 +18,7 @@ always_comb
   a = b & c;
 ```
 ```verilog
+always_comb
   d <= #1ns b & c;
 ```
 

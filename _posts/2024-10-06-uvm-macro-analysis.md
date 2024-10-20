@@ -15,14 +15,14 @@ UVM provides several predefined macros for user convenience. This is a review of
 
 
 ## Analysis Results
-| Class of macros                            | Remarks            |
-| ------------------------------------------ | :----------------- | 
-| &#96;uvm_&#42;_utils                             | Highly recommended |
-| &#96;uvm_info \| warning \| error \| fatal    | Highly recommended |
-| &#96;uvm_&#42;_imp_decl                          | OK to use          |
-| &#96;uvm_field_&#42;                             | Do not use         |
-| &#96;uvm_do_&#42;                                | Avoid              |
-| &#96;uvm_sequence_&#42;                          | Do not use         |
+| Class of Macros                  | Remarks            |
+|----------------------------------|--------------------|
+| `uvm_*_utils                     | Highly recommended |
+| `uvm_info\|warning\|error\|fatal | Highly recommended |
+| `uvm_*_imp_decl                  | OK to use          |
+| `uvm_field_*                     | Do not use         |
+| `uvm_do_*                        | Avoid              |
+| `uvm_sequence_*                  | Do not use         |
 
 
 ## Alternatives to `uvm_field_* macros
