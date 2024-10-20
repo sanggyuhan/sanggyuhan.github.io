@@ -61,5 +61,5 @@ end
 i = 1
 ```
 
-## Sources
+## Source
 IEEE Computer Society. (2023). IEEE Standard for SystemVerilog-Unified Hardware Design, Specification, and Verification Language.
