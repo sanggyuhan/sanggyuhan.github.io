@@ -15,6 +15,8 @@ UVM provides several predefined macros for user convenience. This is a review of
 
 
 ## Analysis Results
+
+
 | Class of Macros                  | Remarks            |
 |----------------------------------|--------------------|
 | `uvm_*_utils                     | Highly recommended |
