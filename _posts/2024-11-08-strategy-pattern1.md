@@ -12,6 +12,7 @@ media_subpath: '/posts/20241108'
 
 ## What is a Strategy Pattern?
 > The strategy pattern is a behavioral software design pattern that enables selecting an algorithm at runtime. Instead of implementing a single algorithm directly, code receives run-time instructions as to which in a family of algorithms to use.
+
 In short, the strategy pattern is to separate a specific function (algorithm) performed by the client into a separate interface, and perform a specific interface at runtime.
 
 ## Strategy Pattern in Design Verification
@@ -137,3 +138,6 @@ class axi_sub_mem_read_seq extends axi_sub_seq_base;
 
 endclass : axi_sub_mem_read_seq
 ```
+
+## Source
+Wikipedia, Strategy Pattern. Retrieved from https://en.wikipedia.org/wiki/Strategy_pattern
