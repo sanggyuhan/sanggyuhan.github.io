@@ -4,7 +4,7 @@ description: >-
   Comparison and implementation of shallow copy and deep copy in SystemVerilog
 author:
 date: 2024-11-16 14:04:00 +0900
-categories: [Programming, SystemVerilog]
+categories: [Programming, Concept]
 tags: [Programming]
 pin: false
 media_subpath: '/posts/20241116'

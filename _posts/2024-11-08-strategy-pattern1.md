@@ -4,7 +4,7 @@ description: >-
   Strategy Pattern and its implementation in SystemVerilog
 author:
 date: 2024-11-08 17:48:00 +0900
-categories: [Design Pattern, SystemVerilog]
+categories: [Programming, Design Pattern]
 tags: [Design Pattern]
 pin: false
 media_subpath: '/posts/20241108'
