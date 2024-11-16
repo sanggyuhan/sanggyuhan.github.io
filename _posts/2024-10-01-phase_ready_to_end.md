@@ -4,7 +4,7 @@ description: >-
   A function that can be used when it is necessary to wait for some simulation time at the end of an UVM test
 author:
 date: 2024-10-01 15:38:00 +0900
-categories: [UVM, Tips]
+categories: [UVM, Standard]
 tags: [UVM]
 pin: false
 media_subpath: '/posts/20241001'

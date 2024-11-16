@@ -4,7 +4,7 @@ description: >-
   Qualifier that limits the scope of the variables related to randomize() with
 author:
 date: 2024-10-11 14:18:00 +0900
-categories: [SystemVerilog, Tips]
+categories: [SystemVerilog, Standard]
 tags: [SystemVerilog]
 pin: false
 media_subpath: '/posts/20241011'

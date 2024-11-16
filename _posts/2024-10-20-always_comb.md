@@ -4,7 +4,7 @@ description: >-
   Difference between always_comb and always
 author:
 date: 2024-10-20 16:56:00 +0900
-categories: [SystemVerilog, Tips]
+categories: [SystemVerilog, Standard]
 tags: [SystemVerilog]
 pin: false
 media_subpath: '/posts/20241020'

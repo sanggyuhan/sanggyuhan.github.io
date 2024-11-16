@@ -4,7 +4,7 @@ description: >-
   A comparison of binary case equality operators and binary logical equality operators
 author:
 date: 2024-11-02 22:13:00 +0900
-categories: [SystemVerilog, Tips]
+categories: [SystemVerilog, Standard]
 tags: [SystemVerilog]
 pin: false
 media_subpath: '/posts/20241102'

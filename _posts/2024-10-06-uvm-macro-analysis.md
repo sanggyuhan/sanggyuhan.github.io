@@ -4,7 +4,7 @@ description: >-
   Cost-benefit analysis of macros used in UVM
 author:
 date: 2024-10-06 17:12:00 +0900
-categories: [UVM, Tips]
+categories: [UVM, Paper]
 tags: [UVM]
 pin: false
 media_subpath: '/posts/20241006'

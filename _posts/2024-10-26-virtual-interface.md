@@ -4,7 +4,7 @@ description: >-
   A construct to apply interface to dynamic testbench
 author:
 date: 2024-10-26 12:53:00 +0900
-categories: [SystemVerilog, Tips]
+categories: [SystemVerilog, Standard]
 tags: [SystemVerilog]
 pin: false
 media_subpath: '/posts/20241026'
