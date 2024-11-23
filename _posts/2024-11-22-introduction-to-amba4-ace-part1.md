@@ -61,4 +61,4 @@ There are potential coherency challenges that can occur when using one or more c
 
 
 ## Sources
-Ashley Stevens, Introduction to AMBA^®^ 4 ACE^TM^ and big.LITTLE^TM^ Processing Technology, 2011
+Ashley Stevens, Introduction to AMBA® 4 ACE™ and big.LITTLE™ Processing Technology, 2011
