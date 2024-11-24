@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Sanggyu Han # the main title
 
-tagline: Developer # it will display as the subtitle
+tagline: Design Verification Engineer # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -58,8 +58,7 @@ webmaster_verifications:
 
 # Web Analytics Settings
 analytics:
-provider               : "google-gtag" 
-                          # false (default), "google", "google-universal", "google-gtag", "custom"
+provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          : "G-60FNC71SMM"
     anonymize_ip         : # true, false (default)
