@@ -1,5 +1,5 @@
 ---
-title: Introduction to AMBA4 ACE - Part 1
+title: Introduction to AMBA4 ACE - Concepts
 description: >-
   The necessity and basic concepts of AMBA4 ACE
 author:
@@ -11,7 +11,6 @@ media_subpath: '/posts/20241122'
 ---
 
 ## Why Is Cache Coherency Important?
-Why is cache coherency important?
 - In order to maintain or increase performance while maintaining energy consumption, the use of multi-processing such as big.LITTLE has become important.
 - Multi-processing is an architecture that combines a processor cluster that supports high-performance with multi-issue and out-of-order and a high-efficiency with in-order processor cluster.
 - Since a high-performance cluster and a high-efficiency cluster are architecturally compatible, there is no difference between the two processor clusters from a software perspective. In other words, one software can be executed identically on any processor cluster, so shared data transfer between processor clusters is widespread.
@@ -60,5 +59,5 @@ There are potential coherency challenges that can occur when using one or more c
 
 
 
-## Sources
+## Source
 Ashley Stevens, Introduction to AMBA® 4 ACE™ and big.LITTLE™ Processing Technology, 2011
