@@ -1,7 +1,7 @@
 ---
 title: Process Control - wait fork vs. disable fork
 description: >-
-  wait fork와 disable fork가 영향을 미치는 process 범위의 차이
+  Differences in the processes affected by wait fork and disable fork
 author:
 date: 2024-12-06 23:53:00 +0900
 categories: [SystemVerilog, Standard]
