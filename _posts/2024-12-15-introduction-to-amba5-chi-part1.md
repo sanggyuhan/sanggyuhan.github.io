@@ -24,13 +24,9 @@ media_subpath: '/posts/20241215'
 
 ## CHI Cache Line States
 
+
+
 ![CHI Cache Line States](https://github.com/sanggyuhan/sanggyuhan.github.io/blob/main/_posts/2024-12-15-introduction-to-amba5-chi-part1/CHI_Cache_Line_States.png?raw=true)
-
-
-
-
-<img src="./2024-12-15-introduction-to-amba5-chi-part1/CHI_Cache_Line_States.png">
-
 
 
 
