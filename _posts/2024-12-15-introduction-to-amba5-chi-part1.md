@@ -24,9 +24,7 @@ media_subpath: '/posts/20241215'
 
 ## CHI Cache Line States
 
-
 ![CHI Cache Line States](https://github.com/sanggyuhan/sanggyuhan.github.io/blob/main/_posts/2024-12-15-introduction-to-amba5-chi-part1/CHI_Cache_Line_States.png?raw=true)
-_CHI Cache Line States_
 
 - Invalid: The cache line does not exist in the local cache.
 - Unique Dirty: The cache line exists only in the cache that has the copy, and the copy was updated from the value in main memory. When snooped, the cache line copy must be delivered to the requester.
