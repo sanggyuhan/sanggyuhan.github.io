@@ -23,13 +23,10 @@ media_subpath: '/posts/20241215'
 
 
 ## CHI Cache Line States
-<!--
-![CHI Cache Line States](./2024-12-15-introduction-to-amba5-chi-part1/CHI_Cache_Line_States.png)
--->
 
-<p align="center">
-  <img width="460" height="300" src="./2024-12-15-introduction-to-amba5-chi-part1/CHI_Cache_Line_States.png">
-</p>
+
+![CHI Cache Line States](./2024-12-15-introduction-to-amba5-chi-part1/CHI_Cache_Line_States.png)
+_CHI Cache Line States_
 
 - Invalid: The cache line does not exist in the local cache.
 - Unique Dirty: The cache line exists only in the cache that has the copy, and the copy was updated from the value in main memory. When snooped, the cache line copy must be delivered to the requester.
