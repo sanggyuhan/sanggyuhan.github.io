@@ -25,7 +25,7 @@ media_subpath: '/posts/20241215'
 ## CHI Cache Line States
 
 
-![CHI Cache Line States](./_posts/2024-12-15-introduction-to-amba5-chi-part1/CHI_Cache_Line_States.png){: width="400"}
+![CHI Cache Line States](https://github.com/sanggyuhan/sanggyuhan.github.io/blob/main/_posts/2024-12-15-introduction-to-amba5-chi-part1/CHI_Cache_Line_States.png){: width="400"}
 _CHI Cache Line States_
 
 - Invalid: The cache line does not exist in the local cache.
